@@ -1,2 +1,2 @@
-# Flutter-RowColumnDemo
-This is the very small demo app where I have shown the use of Row and Column.
+* How to use Containers to lay out your UI
+* How to use Columns and Rows to position your UI elements
